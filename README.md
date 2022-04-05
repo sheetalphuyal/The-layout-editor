@@ -1,2 +1,2 @@
-# The-layout-editior-task-3
-![LinearLayoutTask3](https://user-images.githubusercontent.com/50354069/161590147-111e23d9-a5e8-4e1f-a8a4-8b7f770bde12.gif)
+# The-layout-editior-task-3![gif2]
+(https://user-images.githubusercontent.com/50353804/161789655-210250b8-2e4b-4626-abc7-8e71bf0364e2.gif)
